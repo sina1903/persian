@@ -1,13 +1,13 @@
 <p 
     <div align="center">
-    <a href="https://telegram.me/titanteams">
+    <a href="https://telegram.me/TG_plus">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/mohammadrezajiji">
+    <a href="https://telegram.me/MRe_ir">
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
-<a href="https://telegram.me/titanteams"><font size="100">parsol.v3</font></a>
+<a href="https://telegram.me/TG_plus"><font size="100">TG_plus</font></a>
 <h3><p dir="rtl">سورسی کاملا فارسی در زمینه تیجی های جدید :)
 <br>
 <h3 align="right"> <strong></strong>
@@ -30,17 +30,17 @@
 <h6 dir="rtl"></h6>
 <pre>
 <span>cd $HOME</span>
-<span>git clone https://github.com/mohammadrezatitan/parsol.git</span>
-<span>cd parsol</span>
-<span>chmod +x parsol.sh</span>
-<span>./parsol.sh install</span>
-<span>./parsol.sh</span>
+<span>git clone https://github.com/sina1903/persian.git</span>
+<span>cd persian</span>
+<span>chmod +x persian.sh</span>
+<span>./persian.sh install</span>
+<span>./persian.sh</span>
 </pre>
 <h4 dir="rtl">نصب ربات(روش دوم)
 <br></h4>
 <h6 dir="rtl"></h6>
 <pre>
-<span>cd $HOME && git clone https://github.com/mohammadrezatitan/parsol.git && cd parsol && chmod +x parsol.sh && ./parsol.sh install && ./parsol.sh 
+<span>cd $HOME && git clone https://github.com/sina1903/persian.git && cd persian && chmod +x persian.sh && ./persian.sh install && ./persian.sh 
 </span>
 </pre>
 <hr>
@@ -58,7 +58,7 @@
 <pre>
 <span>killall screen</span>
 <span>killall .telegram-cli</span>
-<span>cd parsol</span>
+<span>cd persian</span>
 <span>screen ./parsol.sh</span>
 </pre>
 <h6 dir="rtl">ابتدا یک توکن از @botfather دریافت کنید سپس توکن رو به جای عبارت [token] در auto.sh قرار دهید و کد های زیر را در ترمینال وارد کنید
@@ -69,18 +69,11 @@ chmod +x ./auto.sh
 screen ./auto.sh
 </pre>
 </P>
+ 
 
+ 
 
-اموزش های بیش تر در کانال
-
-# [mohammadrezajiji](https://telegram.me/mohammadrezajiji)
-
-
-###  Telegram channel:
-
-# [Titanteam](https://telegram.me/titantims)
-
-### thanks to   
+### thanks to   
 
 # [beyondteam](https://telegram.me/BeyondTeam)
 
