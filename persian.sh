@@ -37,7 +37,7 @@ if [ ! -f ./tg/tgcli ]; then
    echo -e "\033[38;5;208m"
    echo -e "     >>>>                       TG_plus :D                      "
    echo -e "     >>>>                                                    "
-   echo -e "     >>>>                       @MOHAMMADREZAJIJITG_plus ;)                                  "
+   echo -e "     >>>>                       @TG_plus ;)                                  "
    echo -e "     >>>>                                                   "
    echo -e "     >>>>                       @MR_me_ir                                "
    echo -e "\033[0;00m"
