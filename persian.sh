@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-cd $HOME/parsol
-
+cd $HOME/persian
+ 
 install() {
 	    cd tg
 		sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
@@ -21,18 +21,7 @@ install() {
 		cd ..
 		chmod +x bot
 		chmod +x tg
-}
 
-function print_logo() {
-	echo -e "\033[38;5;600m"
-	echo -e " |--||--||--|   |--||--||--|   |--|       |--|  |--||--||--|"
-	echo -e " |--|    |--|   |--|    |--|   |--|   |--|      |--|"
-	echo -e " |--||--||--|   |--||--||--|   |--||--|         |--||--||--|"
-	echo -e " |--|                   |--|   |--|                     |--|"
-	echo -e " |--|                          |--|             |--||--||--|"
-	echo -e " |--|"
-	echo -e "\n\e[36m"
-}
 if [ "$1" = "install" ]; then
   install
   else
@@ -46,11 +35,11 @@ if [ ! -f ./tg/tgcli ]; then
 
    print_logo
    echo -e "\033[38;5;208m"
-   echo -e "     >>>>                       parsol :D                      "
+   echo -e "     >>>>                       TG_plus :D                      "
    echo -e "     >>>>                                                    "
-   echo -e "     >>>>                       @mohammadrezajiji ;)                                  "
+   echo -e "     >>>>                       @MOHAMMADREZAJIJITG_plus ;)                                  "
    echo -e "     >>>>                                                   "
-   echo -e "     >>>>                       @titantims                                     "
+   echo -e "     >>>>                       @MR_me_ir                                "
    echo -e "\033[0;00m"
    echo -e "\e[36m"
    logo_play
